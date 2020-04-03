@@ -1,4 +1,0 @@
-1. Add 404 & error page -- Done
-2. Add footer -- Done
-3. When opened, fetch worldwide data -- Done
-4. Add validation on text field -- Done
